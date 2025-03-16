@@ -2,7 +2,11 @@
 
 A sleek, modern, and responsive web agency portfolio built with Next.js, Tailwind CSS, and Framer Motion. This project showcases a professional web design agency website with beautiful animations, dark/light mode support, and a cohesive design language across all pages.
 
-![Modern Web Agency Portfolio](https://i.imgur.com/XYZ123.png)
+### Light Mode
+![Modern Web Agency Portfolio Light](https://i.imgur.com/EcQFYtQ.png)
+
+### Dark Mode
+![Modern Web Agency Portfolio Dark](https://i.imgur.com/eIWffNk.png)
 
 ## 🌟 Features
 
